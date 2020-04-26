@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1587867202 source:d:\utn\programacion y laboratorio\projectos codeblocks\ejercicios\funciones\ej5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesEnteros.h"
+
+1587866982 source:d:\utn\programacion y laboratorio\projectos codeblocks\ejercicios\funciones\ej5\funcionesenteros.c
+	<stdio.h>
+	<stdlib.h>
+
+1587867569 d:\utn\programacion y laboratorio\projectos codeblocks\ejercicios\funciones\ej5\funcionesenteros.h
+
